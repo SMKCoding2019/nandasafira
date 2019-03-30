@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "372390845952",
+    "firebase_url": "https://click24-1634d.firebaseio.com",
+    "project_id": "click24-1634d",
+    "storage_bucket": "click24-1634d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372390845952:android:1bf5f7c1ab2be35e",
+        "android_client_info": {
+          "package_name": "com.example.click_24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372390845952-sn4gerji28ivdk90i4ouquovklb5ceif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.click_24",
+            "certificate_hash": "aa0d11ed6aa69e81c761feb3337a375f17cae461"
+          }
+        },
+        {
+          "client_id": "372390845952-1ev0mek20cal623kgjhut0c5kvbqark7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCWEMB3B7cZfYKF8LqAfXMlVkGraxXMKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372390845952-1ev0mek20cal623kgjhut0c5kvbqark7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
